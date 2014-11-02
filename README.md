@@ -1,5 +1,7 @@
 # keybase-clj
 
+[ ![Codeship Status for niftyn8/keybase-clj](https://www.codeship.io/projects/88f64b70-4519-0132-64da-460c6dc64c0a/status)](https://www.codeship.io/projects/44937)
+
 A Clojure library for interacting with the keybase.io API **NOTE:** This totally doesn't work yet...
 
 ## Usage
